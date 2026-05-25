@@ -1,2 +1,16 @@
-# ecommerce-sistema-gestion
-Sistema de gestión de e-commerce enfocado en la administración de una tienda virtual, incluyendo módulos de usuarios, productos, carrito de compras y ventas, desarrollado en Python bajo el paradigma de programación funcional.
+# Sistema de Gestión de E-commerce
+
+## Descripción
+Este proyecto consiste en el diseño de un sistema de gestión de e-commerce desarrollado en Python bajo el enfoque de programación funcional.
+
+## Módulos
+- Usuarios
+- Productos
+- Carrito de compras
+- Ventas
+
+## Tecnologías
+- Python
+
+## Autor
+Andy Rogel
