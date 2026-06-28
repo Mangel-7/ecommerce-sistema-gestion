@@ -22,10 +22,11 @@ def agregar_producto(nombre, precio):
 
         producto = Producto(nombre, precio)
         productos.append(producto)
-        print("✅ Producto agregado correctamente")
+        print("Producto agregado correctamente")
 
     except ValueError as e:
         print("Error:", e)
+
 
 def listar_productos():
     return productos
