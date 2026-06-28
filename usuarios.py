@@ -20,5 +20,6 @@ def registrar_usuario(nombre, correo):
     usuarios.append(usuario)
     return usuario
 
+
 def listar_usuarios():
     return usuarios
