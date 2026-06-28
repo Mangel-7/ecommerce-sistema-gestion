@@ -69,5 +69,5 @@ Se implementó concurrencia mediante `threading`, permitiendo procesar ventas en
 POST /usuarios
 {
   "nombre": "Andy",
-  "correo": "andy@mail.com"
+  "correo": "anrogelma@uide.edu.ec"
 }
